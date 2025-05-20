@@ -10,6 +10,6 @@ The real-world data used for our modeling are specifically referenced in the art
 2. **NCEI Dataset:** Latent Heat Flux (LHTFL)
 
 ### *Our Work*
-Take a look at our [analysis](HeatFlux_Analysis.ipynb) to see how we analyzed the influence of *sea surface salinity* and *temperature* on *latent heat flux* of the ocean's surface. 
+1. Take a look at our [analysis](HeatFlux_Analysis.ipynb) to see how we analyzed the influence of *sea surface salinity* and *temperature* on *latent heat flux* of the ocean's surface.
 
-Take a look at our [report](OceansClimate_Paper.pdf) to learn more about our all-encompassing project that tackles how the ocean as a whole affects climate.
+2. Take a look at our [report](OceansClimate_Paper.pdf) to learn more about our all-encompassing project that tackles how the ocean as a whole affects climate.
