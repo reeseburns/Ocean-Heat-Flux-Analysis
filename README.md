@@ -12,6 +12,6 @@ The real-world data used for our modeling comes from the *Estimating the Circula
 Each dataset includes columns for timestamp (year-month-day) ranginge from 1955-2017, lattitude, longitude, and the respective variable (e.g. salinity, temperature, or latent heat flux). 
 
 ### *Our Work*
-Take a look at our "analysis.ipynb" to see how we analyzed the influence of *sea surface salinity* and *temperature* on *latent heat flux* of the ocean's surface. 
+Take a look at our [analysis](HeatFlux_Analysis.ipynb) to see how we analyzed the influence of *sea surface salinity* and *temperature* on *latent heat flux* of the ocean's surface. 
 
-Take a look at our paper "EACOceans_Paper.pdf" to learn more about our all-encompassing project that tackles how the ocean as a whole affects climate.
+Take a look at our [report](OceanClimate_Paper.pdf) to learn more about our all-encompassing project that tackles how the ocean as a whole affects climate.
