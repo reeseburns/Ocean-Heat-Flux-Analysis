@@ -1,7 +1,9 @@
 # Ocean-Heat-Flux-Analysis
 
+The ocean is a vast and dynamic force, shaping Earth's climate through heat absorption, circulation, and feedback loops. 
+
 ### *Research Goal*
-We aim to analyze the change over time (from 1992-2015) of *latent heat flux* in the ocean's surface based on factors like *sea surface salinity* and *temperature*.
+We explore its critical role, from surface fluxes to deep-water currents, using research and data analysis to uncover how oceans regulate global temperatures and respond to climate change. In our analysis, we aim to analyze the change over time (from 1992-2015) of *latent heat flux* in the ocean's surface based on factors like *sea surface salinity* and *temperature*.
 
 ### *About the Data*
 The real-world data used for our modeling are specifically referenced in the article ["Global Reconstruction of Historical Ocean Heat Storage and Transport"](https://www.pnas.org/doi/full/10.1073/pnas.1808838115) (Zanna et al. 19).
